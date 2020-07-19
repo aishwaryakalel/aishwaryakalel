@@ -1,0 +1,6 @@
+a=int(input("Enter First Number "))
+b=int(input("Enter Second Number "))
+
+
+print("Integer Division=",a//b) 
+Print("Float Divisions =",a/b)
